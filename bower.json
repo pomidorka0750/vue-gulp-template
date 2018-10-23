@@ -1,0 +1,14 @@
+{
+  "name": "vue-gulp-template",
+  "description": "",
+  "main": "app/main.js",
+  "authors": [
+    "Roman"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
